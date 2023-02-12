@@ -1,0 +1,31 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "OOP",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yorlan-r/Team-Profile-Generator.git"
+  },
+  "author": "Yorlan Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yorlan-r/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Yorlan-r/Team-Profile-Generator#readme"
+  "dependencies": {
+    "inquirer": "9.1.4"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
+
+
